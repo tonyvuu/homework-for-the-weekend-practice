@@ -1,0 +1,24 @@
+.header1 {
+background-color: rgb(54, 54, 239);
+opacity: 75%;
+width: 200px;
+}
+
+img {
+    width: 500px;
+}
+
+.header2 {
+    background-color: pink;
+    width: 200px;
+}
+
+body{
+    background-color: rgb(203, 225, 211)
+}
+
+@media screen and (max-width: 800px){
+    body {
+        background-color: rgb(187, 54, 54);
+    }
+}
